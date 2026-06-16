@@ -1,110 +1,192 @@
-# Hi 👋, I'm Gamal Ashraf Yassin
+<div align="center">
 
-### Machine Learning Engineer | Artificial Intelligence Student
+# 👋 Hi, I'm Gamal Ashraf
 
-🎓 AI Student at Faculty of Artificial Intelligence, Menoufia University  
-💻 Passionate about Machine Learning, Deep Learning, Data Science, and AI Applications  
-🚀 Interested in building intelligent systems that solve real-world problems  
-📚 Currently learning Advanced Machine Learning, Deep Learning, MLOps, and Software Engineering
+### 🧠 Machine Learning Engineer · AI Student
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_URL])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
 
-## 🚀 About Me
-
-- 🎓 Faculty of Artificial Intelligence Student
-- 🤖 Interested in Machine Learning and Deep Learning
-- 📊 Love working with data and predictive models
-- 🧠 Exploring Computer Vision and Natural Language Processing
-- 🌱 Currently learning MLOps, System Design, and Clean Architecture
-- 🎯 Goal: Become a Machine Learning Engineer and AI Researcher
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Aspiring **Machine Learning Engineer** and student at the **Faculty of Artificial Intelligence, Menoufia University**. 
+I have a strong foundation in Artificial Intelligence, Machine Learning, and Data Analytics. I am passionate about transforming raw data into actionable intelligence through predictive modeling, interactive dashboards, and data-driven insights to solve real-world problems.
 
 ---
 
-## 🤖 Machine Learning Skills
+## 🛠️ Technical Skills
 
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Data Preprocessing
-- Model Evaluation
-- Hyperparameter Tuning
-- Ensemble Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Reinforcement Learning
+| Category | Technologies |
+|----------|-------------|
+| **Programming** | Python, SQL |
+| **ML / DL** | Scikit-learn, PyTorch, XGBoost, Random Forest, CNN, NLP, Reinforcement Learning |
+| **Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX, Power Query |
+| **Database** | MySQL |
+| **Tools** | Git/GitHub, Google Colab, Jupyter, Excel, ETL Pipelines |
+
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4444?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🏆 1. Garbage Classification — CNN (ResNet50 Transfer Learning)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50-Transfer_Learning-orange?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blueviolet?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+> End-to-end deep learning pipeline for **multi-class garbage image classification** using ResNet50 with a custom classifier head, data augmentation, early stopping, and full training analysis dashboards.
+
+- ✅ ResNet50 backbone with custom multi-layer classification head
+- ✅ Dataset: Garbage Classification V2 (Kaggle) — auto train/val/test split (60/20/20)
+- ✅ Training: 30 epochs · AdamW · StepLR scheduler · gradient clipping · early stopping
+- ✅ Rich augmentation: random crop, flip, rotation, color jitter, affine transforms
+- ✅ Outputs: confusion matrix, per-class accuracy chart, 9-panel training analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK])
+&nbsp;
+[![View Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([YOUR_REPO_LINK])
+
+---
+
+### 🏆 2. Customer Churn Prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4444?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+> ML model achieving **86% accuracy** using Random Forest, Logistic Regression & XGBoost. Improved marketing ROI by **20%** through audience segmentation and channel optimization.
+
+- ✅ Trained and compared 3 classification algorithms
+- ✅ Identified key churn drivers through feature importance analysis
+- ✅ Built automated Power BI dashboards for KPI tracking
+- ✅ Delivered insights improving marketing ROI by 20%
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK])
+
+---
+
+### 🏆 3. ML Desktop Application
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+> End-to-end ML desktop app with CustomTkinter GUI — regression, classification & clustering with **automated evaluation metrics** and visualizations.
+
+- ✅ User-friendly GUI built with CustomTkinter
+- ✅ Data preprocessing: scaling, encoding, missing values
+- ✅ Regression: Linear, Ridge | Classification: Logistic, Random Forest | Clustering: K-Means
+- ✅ Auto evaluation: RMSE, Accuracy, Silhouette Score
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK])
+
+---
+
+### 🏆 4. Retail Sales Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> Interactive Power BI dashboard analyzing **50k+ retail records**. Reduced stockouts by **15%**, improved reporting efficiency by **70%**.
+
+- ✅ Cleaned and analyzed 50k+ records using Power Query & DAX
+- ✅ Tracked: revenue, monthly growth %, retention, top products
+- ✅ Optimized inventory planning — reduced stockouts by 15%
+- ✅ Improved reporting efficiency by 70%
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK])
+
+---
+
+## 💼 Experience
+
+| Role | Type | Period |
+|------|------|--------|
+| **Data Scientist / ML Engineer** | Freelance | Aug 2023 – Present |
+| **Junior Data Analyst** | Internship | Aug 2023 |
+
+### 🎯 Key Achievements
+
+- ✅ Built garbage classification CNN with ResNet50 Transfer Learning
+- ✅ Built churn prediction model with **86% accuracy**
+- ✅ Created automated Power BI dashboards for KPI tracking
+- ✅ Improved marketing campaign ROI by **20%**
+- ✅ Analyzed **50k+ retail transactions** for business insights
+
+---
+
+## 🎓 Education
+
+**🏛️ Menoufia University — Faculty of Artificial Intelligence** `2023 – Present`
+
+B.Sc. in Data Science & Artificial Intelligence
+
+| | | |
+|---|---|---|
+| Data Analytics | Machine Learning | Computer Vision |
+| Deep Learning | NLP | Reinforcement Learning |
+| Statistics | Big Data | Artificial Intelligence |
+
+---
+
+## 🏅 Certifications & Awards
+
+| Credential | Institution | Details |
+|------------|-------------|---------|
+| 🥇 Data Analytics Certificate | NTI | 120 Hours (2025) |
+| 🥈 AI & ML Summer Code Camp | ITI | 72 Hours (2025) |
+| ⭐ Dean's List | Menoufia University | Academic Excellence |
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📫 Contact Me
 
-### 📌 Machine Learning Projects
-- Customer Churn Prediction
-- House Price Prediction
-- Loan Approval Prediction
-- Sentiment Analysis
-- Image Classification with CNNs
-
-### 📌 Deep Learning Projects
-- Image Recognition
-- Object Detection
-- Face Recognition
-- NLP Text Classification
+| Method | Details |
+|--------|---------|
+| 📧 **Email** | [[YOUR_EMAIL]](mailto:[YOUR_EMAIL]) |
+| 📱 **Phone** | [YOUR_PHONE_NUMBER] |
+| 💼 **LinkedIn** | [linkedin.com/in/[YOUR_LINKEDIN_USERNAME]]([YOUR_LINKEDIN_URL]) |
+| 🐙 **GitHub** | [github.com/[YOUR_GITHUB_USERNAME]](https://github.com/[YOUR_GITHUB_USERNAME]) |
+| 🌐 **Portfolio** | [[YOUR_PORTFOLIO_URL]]([YOUR_PORTFOLIO_URL]) |
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your_email@example.com
+Built with ❤️ by **Gamal Ashraf**
 
----
+*"In data we trust, in algorithms we believe."*
 
-### 💡 Quote
-
-> "Machine Learning is not about making computers learn. It's about understanding learning well enough to build systems that improve with experience."
-
-⭐ If you like my work, feel free to star my repositories!
+</div>
