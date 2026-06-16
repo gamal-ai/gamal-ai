@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gamal Ashraf
 
-### 🧠 Machine Learning & MLOps Engineer · AI Student
+### 🧠 Machine Learning & MLOps Engineer · Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamal-ashraf-8b3713368)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamal-ai)
