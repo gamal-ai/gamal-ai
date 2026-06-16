@@ -98,7 +98,7 @@ Machine Learning Engineer & MLOps Enthusiast. Artificial Intelligence student pa
 
 | Role | Type | Time |
 |------|------|--------|
-| **Data Analytics & ML Trainee** | NTI Internship | 2026 |
+| **Data Analytics & ML Training** | NTI Internship | 2026 |
 
 ---
 
