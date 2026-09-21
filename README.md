@@ -131,7 +131,7 @@ B.Sc. in Data Science & Artificial Intelligence *(Expected 2027)*
 
 | Method | Details |
 |--------|---------|
-| 📧 **Email** | [gimiashraf.ai@gmail.com](mailto:gimiashraf.ai@gmail.com) |
+| 📧 **Email** | [gamalsakr.ai@gmail.com](mailto:gimiashraf.ai@gmail.com) |
 | 📱 **Phone** | 01006328967 |
 | 💼 **LinkedIn** | [linkedin.com/in/gamal-ashraf-8b3713368](https://www.linkedin.com/in/gamal-ashraf-8b3713368) |
 | 🐙 **GitHub** | [github.com/gamal-ai](https://github.com/gamal-ai) |
